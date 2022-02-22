@@ -1,0 +1,8 @@
+{
+    "ReadMe": "Welcome to the OSRS Boss Drop Log!\nChoose which boss you're killing and input your drops as you get them for easy tracking\nClick Show latest drops while having your boss selected to see your personal log of previous drops",
+    "BossOption": ["Bandos","Bandos","Zamorak","Saradomin","Armadyl"],
+    "Bandos": ["Choose drop","Bandos hilt","Bandos Boots","Bandos Chestplate","Bandos Tassets"],
+    "Armadyl": ["Choose drop","Armadyl hilt","Armadyl helmet","Armadyl Chestplate","Armadyl Chainskirt"],
+    "Zamorak": ["Choose drop","Zamorak hilt","Zamorakian spear","Staff of the Dead","Steam battlestaff"],
+    "Saradomin": ["Choose drop","Saradomin's light", "Saradomin hilt", "Armadyl crossbow"]
+}
